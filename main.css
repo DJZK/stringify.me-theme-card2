@@ -163,7 +163,8 @@ p {
   height: 24px;
   padding: 6px;
   position: relative;
-  overflow: hidden!important;
+  overflow: hidden!
+    ant;
   -webkit-border-radius: 50%;
   border-radius: 50%;
 }
@@ -447,7 +448,7 @@ p {
   }
   .profile-social-links {
     width: 100%;
-    display: block;
+    display: flex;
     float: none;
   }
   @ -webkit-keyframes materia {
