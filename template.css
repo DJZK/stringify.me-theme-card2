@@ -98,7 +98,9 @@ p {
   position: relative;
   margin: 25px 30px;
 }
-
+.profileimg {
+ display: initial !important;
+}
 .profile-card header a > img {
   width: 120px;
   max-width: 100%;
