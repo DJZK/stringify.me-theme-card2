@@ -1,4 +1,4 @@
-# Template Theme page for Stringify.me https://github.com/prakis/stringify.me
+# Profile Theme for Stringify.me https://github.com/prakis/stringify.me
 
 Note: index.html, profile.json, profile.jpg files in this repo are only for testing purpose.  Template.html is the file with all theme and template code.
 
