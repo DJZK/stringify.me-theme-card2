@@ -1,18 +1,17 @@
 {
 	"basics": {
-		"name": "Richard Feynman",
-		"label": "Physicist",
-		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"dribbble": "https://www.dribbble.com",
-		"github": "http://github.com/prakis",
-		"summary": "Theoretical physicist, known for his work in the path quantum mechanics, quantum electrodynamics, and the physics of the superfluidity of supercooled liquid helium."
+		"name": "DJZK",
+		"label": "Developer, Sound Engineer, Music Producer, DJ",
+		"picture": "profile.png",
+		"email": "emperorxizzle99@gmail.com",
+		"phone": "+63935 427 5762",
+		"twitter": "https://twitter.com/DJZKofficial",
+		"facebook": "https://www.facebook.com/DJZKOfficial",
+		"github": "http://github.com/DJZK",
+		"summary": "Hello! My name is ZK and I am currently working as an Artificial Intelligence Trainer on Microsoft. I mostly am Developing using C#, VB.NET, and Java. I use FL Studio as my main tool on both Sound Engineering and Music Producing. I currently have Producer Edition License on FL Studio 21."
 	},
 	"theme": {
-		"url": "https://github.com/prakis/stringify.me-theme-card2"
+		"url": "https://github.com/prakis/stringify.me-theme-card2",
+		"background" :"#f98008"
 	}
 }
